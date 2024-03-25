@@ -19,9 +19,6 @@ FORGE is designed to revolutionize the way you manage your online presence. Whet
 
 Provide step-by-step instructions on how to install and set up the project. Include any prerequisites or dependencies that need to be installed.
 
-```bash
-npm install
-
 ## Features
 
 ### Features in this application.
